@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Notes",
+  "description": "A smart, minimalist note-taking application powered by Google Gemini. Features auto-titling, summarization, and grammar improvement.",
+  "requestFramePermissions": []
+}
